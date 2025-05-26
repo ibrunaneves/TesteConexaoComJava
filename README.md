@@ -6,7 +6,7 @@ Este projeto em Java demonstra como realizar uma conexão com um banco de dados 
 
 ## Tecnologias Utilizadas
 
-- Java 8+
+- Java 21
 - JDBC
 - MySQL
 - IntelliJ IDEA (ou qualquer IDE de sua preferência)
