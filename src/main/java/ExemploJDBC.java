@@ -3,8 +3,8 @@ import java.sql.*;
 public class ExemploJDBC {
     public static void main(String[] args) {
         String URL = "jdbc:mysql://localhost:3306/conexaocomjava";
-        String usuario = "root";
-        String senha = "12345";
+        String usuario = "seuusuario";
+        String senha = "suasenha";
 
         try (
                 Connection conn = DriverManager.getConnection(URL, usuario, senha);
